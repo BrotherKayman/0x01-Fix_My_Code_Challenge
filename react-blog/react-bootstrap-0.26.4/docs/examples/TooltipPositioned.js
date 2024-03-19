@@ -1,4 +1,3 @@
-
 const tooltip = (
   <Tooltip><strong>Holy guacamole!</strong> Check this info.</Tooltip>
 );

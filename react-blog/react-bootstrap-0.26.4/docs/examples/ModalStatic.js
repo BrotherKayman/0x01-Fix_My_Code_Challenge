@@ -1,4 +1,3 @@
-
 const modalInstance = (
   <div className="static-modal">
     <Modal.Dialog>

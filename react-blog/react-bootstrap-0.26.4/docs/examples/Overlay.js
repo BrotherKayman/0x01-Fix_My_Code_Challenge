@@ -1,4 +1,3 @@
-
 const Example = React.createClass({
   getInitialState() {
     return { show: true };

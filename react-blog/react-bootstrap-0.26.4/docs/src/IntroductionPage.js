@@ -118,7 +118,6 @@ const IntroductionPage = React.createClass({
   className: "btn btn-lg btn-success",
   children: "Register"
 });
-
 React.render(button, mountNode);`
                     }
                   />
@@ -138,7 +137,6 @@ React.render(button, mountNode);`
   bsSize: "large",
   children: "Register"
 });
-
 React.render(button, mountNode);`
                     }
                   />
@@ -173,7 +171,6 @@ React.render(button, mountNode);`
     <Button bsStyle="info">Right</Button>
   </ButtonGroup>
 );
-
 React.render(buttonGroupInstance, mountNode);`
                     }
                   />

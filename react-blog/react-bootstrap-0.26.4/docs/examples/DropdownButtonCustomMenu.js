@@ -1,4 +1,3 @@
-
 class CustomMenu extends React.Component {
 
   constructor(...args) {
